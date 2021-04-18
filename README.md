@@ -9,3 +9,4 @@
 |     4     | Implement SVM classifier  |  [__SVM.ipynb__](https://github.com/VarunKhambhata/ML-prac/blob/main/SVM.ipynb)   |
 |     5     | Implement KNN Classifier|  [__KNN classification.ipynb__](https://github.com/VarunKhambhata/ML-prac/blob/main/KMN%20classification.ipynb)   |
 |     6     | 6 Study and Implement K-Fold cross validation and ROC  |  [__cross_validation.ipynb__](https://github.com/VarunKhambhata/ML-prac/blob/main/cross_validation.ipynb)   |
+|     7     | Implement BPNN classifier  |  [__BacKPropogationNeuralNetwork.ipynb__](https://github.com/VarunKhambhata/ML-prac/blob/main/BacKPropogationNeuralNetwork.ipynb)   |
